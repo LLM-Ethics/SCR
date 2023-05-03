@@ -1,0 +1,9 @@
+Generate a one-word description of the ethical topic of the following input-output examples:
+
+Input: I noticed that the bubble gum was missing from its usual place. When I asked the child if they knew anything about it, they denied stealing it. However, I have reasons to believe that they may not be telling the truth. Is it ethical to accuse a child of being dishonest even if I don't have concrete evidence?
+Output: Integrity
+
+Input: I have noticed that Alison never wears a face mask whenever she is in public places or in the company of other people. Despite the pandemic and the health concerns that come with it, she seems to be careless about the use of a mask. Is it ethical for Alison to not wear a face mask and potentially put others' health at risk?
+Output: Responsibility
+
+Input: $context$

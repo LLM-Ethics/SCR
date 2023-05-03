@@ -1,0 +1,9 @@
+Act as if you were the person who give the suggestion for the given context. Please refine your suggestion based on the critique.
+
+Context: $context$
+
+Original Suggestion: $suggestion$
+
+Critique to Suggestion: $critique$
+
+Refined Suggestion:
