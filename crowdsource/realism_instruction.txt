@@ -1,0 +1,11 @@
+In this task, you will read a short text that describes a situation and determine how realistic it is in the real world. Your task is to choose one of the following labels that best describes the realism of the situation:
+* Completely realistic: The situation described in the text could happen in the real world exactly as described, with no significant departures from reality.
+* Somewhat realistic: The situation described in the text is plausible but may require some minor suspension of disbelief or unlikely circumstances to occur.
+* Unrealistic: The situation described in the text is implausible and unlikely to happen in the real world.
+
+Please consider the following factors when making your judgment:
+* Realistic setting: The location and environment described in the text are plausible and accurate.
+* Realistic characters: The characters in the text behave in a way that is consistent with human nature and are not overly exaggerated or unrealistic.
+* Realistic plot: The events and actions described in the text follow a logical and believable sequence.
+
+Please read the text carefully and base your judgment on whether the situation and these factors could occur in the real world as described, taking into account the laws of physics, human behavior, and other relevant factors.
