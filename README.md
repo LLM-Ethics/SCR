@@ -1,6 +1,6 @@
 # SCR
 
-Code for our submission "“Oops, Did I Just Say That?” Testing and Repairing Unethical Suggestions of Large Language Models with Suggest-Critique-Reflect Process".
+Code for our submission "Reeq: Testing and Mitigating Ethically Inconsistent Suggestions of Large Language Models with Reflective Equilibrium".
 
 # Generate Test Case
 
